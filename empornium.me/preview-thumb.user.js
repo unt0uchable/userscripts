@@ -4,8 +4,8 @@
 // @description  Displays torrent images when cursor hovers over torrent thumbnail (scroll with arrows or wheel). Based on Empornium Quick Thumbnail Preview by LenAnderson (https://github.com/LenAnderson/Empornium-Quick-Thumbnail-Preview).
 // @author       unt0uchable
 // @version      0.99
-// @downloadURL  
-// @updateURL    
+// @downloadURL  https://github.com/unt0uchable/userscripts/raw/master/empornium.me/preview-thumb.user.js
+// @updateURL    http://bit.ly/empornium-preview-thumb
 // @include      http://torrents.empornium.me/torrents.php*
 // @include      http://torrents.empornium.me/user.php*
 // @include      http://torrents.empornium.me/collages.php?id*
