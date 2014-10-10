@@ -9,7 +9,8 @@ Scripts
 -------
 
 * [empornium.me](https://github.com/unt0uchable/userscripts/tree/master/empornium.me)
-  - [preview.user.js](https://github.com/unt0uchable/userscripts/raw/master/empornium.me/preview.user.js) - Displays torrent images when cursor hovers over torrent link.
+  - [preview.user.js](https://github.com/unt0uchable/userscripts/raw/master/empornium.me/preview.user.js) - Displays torrent images when cursor hovers over torrent link (scroll with arrows or wheel).
+  - [preview-thumb.user.js](https://github.com/unt0uchable/userscripts/raw/master/empornium.me/preview-thumb.user.js) - Displays torrent images when cursor hovers over torrent thumbnail (scroll with arrows or wheel).
 
 
 Install
