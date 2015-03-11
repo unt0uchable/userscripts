@@ -9,8 +9,8 @@ Scripts
 -------
 
 * [empornium.me](https://github.com/unt0uchable/userscripts/tree/master/empornium.me)
-  - [empornium-preview.user.js](https://github.com/unt0uchable/userscripts/raw/master/empornium.me/preview.user.js) - Displays torrent images when cursor hovers over torrent link (scroll with arrows or wheel).
-  - [empornium-preview-th.user.js](https://github.com/unt0uchable/userscripts/raw/master/empornium.me/preview-thumb.user.js) - Displays torrent images when cursor hovers over torrent thumbnail (scroll with arrows or wheel).
+  - [empornium-preview.user.js](https://github.com/unt0uchable/userscripts/raw/master/empornium.me/empornium-preview.user.js) - Displays torrent images when cursor hovers over torrent link (scroll with arrows or wheel).
+  - [empornium-preview-th.user.js](https://github.com/unt0uchable/userscripts/raw/master/empornium.me/empornium-preview-th.user.js) - Displays torrent images when cursor hovers over torrent thumbnail (scroll with arrows or wheel).
 * [common](https://github.com/unt0uchable/userscripts/tree/master/common)
   - [intelligent-form-fill.js](https://github.com/unt0uchable/userscripts/raw/master/common/intelligent-form-fill.user.js) - Fills forms with appropriate random data. Press Ctrl+Shift+Alt+F to execute when prompted. Useful for reward survey sites like http://www.rewardsurvey.com. (sourced from http://userscripts-mirror.org/scripts/show/2560)
 

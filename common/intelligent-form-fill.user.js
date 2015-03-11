@@ -5,7 +5,7 @@
 // @author       unt0uchable
 // @version      1.1.2
 // @downloadURL  https://github.com/unt0uchable/userscripts/raw/master/common/intelligent-form-fill.user.js
-// @updateURL    
+// @updateURL    https://github.com/unt0uchable/userscripts/raw/master/common/intelligent-form-fill.user.js
 // @include      *
 // @include      *.rewardsurvey.com/Survey/*
 // ==/UserScript==
